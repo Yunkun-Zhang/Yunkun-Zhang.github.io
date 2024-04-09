@@ -17,6 +17,6 @@ Greetings, I'm Yunkun Zhang, a Master's candidate in Artificial Intelligence at 
 ### Contact me
 
 - WeChat (preferred): dino1999
-- Email: mailto:ykzhang@sjtu.edu.cn
-- GitHub: https://github.com/Yunkun-Zhang
+- [:e-mail:](mailto:ykzhang@sjtu.edu.cn)
+- [GitHub](https://github.com/Yunkun-Zhang)
 
