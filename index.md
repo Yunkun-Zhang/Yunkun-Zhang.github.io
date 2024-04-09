@@ -14,9 +14,3 @@ Greetings, I'm Yunkun Zhang, a Master's candidate in Artificial Intelligence at 
 
 **Abstract:** The advent of foundation models (FMs) as an emerging suite of AI techniques has struck a wave of opportunities in computational healthcare. The interactive nature of these models, guided by pre-training data and human instructions, has ignited a data-centric AI paradigm that emphasizes better data characterization, quality, and scale. In healthcare AI, obtaining and processing high-quality clinical data records has been a longstanding challenge, ranging from data quantity, annotation, patient privacy, and ethics. In this survey, we investigate a wide range of data-centric approaches in the FM era (from model pre-training to inference) towards improving the healthcare workflow. We discuss key perspectives in AI security, assessment, and alignment with human values. Finally, we offer a promising outlook of FM-based analytics to enhance the performance of patient outcome and clinical workflow in the evolving landscape of healthcare and medicine. We provide an up-to-date list of healthcare-related foundation models and datasets at https://github.com/Yunkun-Zhang/Data-Centric-FM-Healthcare.
 
-### Contact me
-
-- WeChat (preferred): dino1999
-- [:e-mail:](mailto:ykzhang@sjtu.edu.cn)
-- [GitHub](https://github.com/Yunkun-Zhang)
-
